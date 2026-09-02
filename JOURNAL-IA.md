@@ -1,0 +1,3 @@
+- Oui bonne ligne désigné
+- Oui bonne cause
+- Oui bonne correction proposer par l'IA
